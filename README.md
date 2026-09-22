@@ -26,7 +26,7 @@ Untuk alurnya pertama-tama user akan memilih jenis kendaraan dan jam masuk serta
 
 Kemudian program langsung menghitung dan menghasilkan output berikut :
 
-<img width="266" height="148" alt="OUTPUT AKHIR MOBIL" src="https://github.com/user-attachments/assets/6c11113a-32fe-4020-b49c-1ff32820b6da" />
+<img width="282" height="150" alt="OUTPUT AKHIR MOBIL" src="https://github.com/user-attachments/assets/5efa70e7-6f5d-4c32-bd39-dbcbc5e082f3" />
 
 Jika user memilih jenis kendaraan motor, maka :
 
@@ -34,9 +34,15 @@ Jika user memilih jenis kendaraan motor, maka :
 
 Sehingga menghasilkan output sebagai berikut :
 
-<img width="280" height="145" alt="OUTPUT AKHIR MOTOR" src="https://github.com/user-attachments/assets/bc14eade-6140-4106-b622-9ddd86562417" />
+<img width="278" height="150" alt="OUTPUT AKHIR MOTOR" src="https://github.com/user-attachments/assets/2f997fba-751e-4b30-9eff-ecbf1d83f4d2" />
 
 Untuk keseluruhan outputnya sebagai berikut :
 
-<img width="438" height="234" alt="ALL OUTPUT MOBIL" src="https://github.com/user-attachments/assets/ce799645-4dac-4782-ae0d-18db846ac665" />
-<img width="425" height="238" alt="ALL OUTPUT MOTOR" src="https://github.com/user-attachments/assets/cb7b8f14-8882-4a4c-b99e-6573eac69f33" />
+<img width="438" height="236" alt="ALL OUTPUT MOBIL" src="https://github.com/user-attachments/assets/1c36de8f-2fff-480a-90ef-30b5404216df" />
+<img width="432" height="243" alt="ALL OUTPUT MOTOR" src="https://github.com/user-attachments/assets/095c81f6-917e-4f0d-b508-418ae9ee77f8" />
+
+#### Penjelasan Tambahan 
+
+<img width="293" height="78" alt="image" src="https://github.com/user-attachments/assets/188dcd8e-4c34-4a72-bda2-82318040a7e6" />
+
+`.lower` digunakan agar ketika user menginput pilihan dengan atau tidak dengan capslock, selagi kata itu masih sama maka sistem tetap membaca valid.
